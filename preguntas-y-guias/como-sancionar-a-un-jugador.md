@@ -10,7 +10,7 @@ En este apartado de la wiki podremos observar los diversos pasos a seguir para p
 
 Para empezar, cuando un usuario no cumple una de las normas del servidor tendremos que ver si anteriormente ha incumplido alguna de estas. Para ello usaremos el comando **/history (nick)**. Utilizando este comando podremos ver (como ya se ha mencionado con anterioridad) el historial completo de las sanciones del jugador al que estamos comprobando.
 
-Antes de ejecutar cualquier sanción tendremos que revisar la [guía de sanciones.](guia-de-sanciones.md). En esta guía podemos observar qué sanción se ejerce para todo tipo de normas, lo único que tendremos que hacer es filtrar la norma incumplida y ajustarnos a la sanción correspondiente.
+Antes de ejecutar cualquier sanción tendremos que revisar la [guía de sanciones](guia-de-sanciones.md). En esta guía podemos observar qué sanción se ejerce para todo tipo de normas, lo único que tendremos que hacer es filtrar la norma incumplida y ajustarnos a la sanción correspondiente.
 
 Cuando ya tengamos la sanción localizada procedemos a ejercerla dentro del servidor tal como está marcado en la guía de sanciones.
 
