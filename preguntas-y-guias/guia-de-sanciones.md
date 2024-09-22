@@ -143,14 +143,6 @@ En el hipotético caso de que el usuario intente mandar otra vez una ip de un se
 
 ***
 
-## Tradear por dinero real
-
-Es importante que en estas situaciones se le comunique al usuario afectado que el servidor no se hace responsable de ninguna de estas situaciones ya que es bajo su propia responsabilidad
-
-Primera sanción: baneo permanente
-
-***
-
 ## Falta de Respeto al Staff
 
 Primera sanción: 6 horas de mute
