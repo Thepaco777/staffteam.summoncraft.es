@@ -12,7 +12,7 @@
 
 ## 📌 Información
 
-* [⚒️ Rango mc](informacion/rango-mc.md)
+* [⚒️ Rango discord](informacion/rango-discord.md)
 * [📱 2fa](informacion/2fa.md)
 * [🔙 RollBacks](informacion/rollbacks.md)
 
