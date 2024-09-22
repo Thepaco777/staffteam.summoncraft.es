@@ -14,5 +14,4 @@ Antes de ejecutar cualquier sanción tendremos que revisar la [guía de sancione
 
 Cuando ya tengamos la sanción localizada procedemos a ejercerla dentro del servidor tal como está marcado en la guía de sanciones.
 
-\
 Es importante aclarar que los soportes y helpers no tienen acceso al <mark style="color:purple;">`/ban`</mark> , por lo que siempre será necesario ponerlo en 📗<mark style="color:orange;">╎pedir-sancion.</mark>. Cabe aclarar que se debe seguir siempre la plantilla establecida en dicho canal para poder ejercer con normalidad todas las sanciones reclamadas. En el caso de que esto no se haga automáticamente esta sanción quedará inhabilitada y el miembro del staff tendrá su sanción correspondiente.
