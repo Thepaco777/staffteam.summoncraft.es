@@ -19,37 +19,37 @@ layout:
 
 # ⚠️ Guía de sanciones
 
-Esta guía es importante y fundamental para cuando ustedes realicen sus labores como Staff . Tienen que cumplir las sanciones tal cual están en esta guía, y cada vez que sancionen a un usuario.
+Esta guía es importante y fundamental para cuando ustedes realicen sus labores como Staff. En cada una de las respectivas sanciones se debe utilizar esta base para ejercer cualquier tipo de duración o sanción. Es importante saber que todo el contenido de esta guía puede ser actualizado en cualquier momento, por lo que es conveniente tenerla siempre a mano.
 
 
 
-Al no seguir esta guía correctamente, o si llegaras a equivocarte conlleva a un llamado de atención o posible Strike.
+Al no seguir esta guía correctamente, o si llegaras a equivocarte deberás justificarlo y podrás enfrentarte a consecuencias como la retirada del rango staff.
 
 ***
 
 ## Uso de Hacks
 
-Uso de Hacks \[Admitidos]: 30d ban&#x20;
+Uso de Hacks \[Admitidos]: 30 días de baneo
 
-Uso de Hacks \[Found in SS]: 60d ban
+Uso de Hacks \[Found in SS]: 60 días de baneo
 
-Uso de Hacks \[Pruebas válidas]: 60d ban&#x20;
+Uso de Hacks \[Pruebas válidas]: 60 días de baneo
 
-Uso de Hacks \[Refuse SS]: 70d ban
+Uso de Hacks \[Refuse SS]: 70 días de baneo
 
 
 
-Segunda sanción : Duplicar la anterior + 10d más.&#x20;
+Segunda sanción : duplicar la anterior + 10d más.&#x20;
 
 ***
 
 ## Ban Evading
 
-Primera sanción: Sanción de su otra cuenta + 10d
+Primera sanción: sanción de su otra cuenta + 10 días de baneo
 
-Segunda sanción: Sanción de su otra cuenta + 10d de (Ban de IP)
+Segunda sanción: sanción de su otra cuenta + 15 días de baneo
 
-Tercera sanción: Ban permanente de IP
+Tercera sanción: baneo permanente
 
 ***
 
@@ -57,239 +57,260 @@ Tercera sanción: Ban permanente de IP
 
 (Compartir información relacionada con un jugador es considerado doxing sin que el jugador haga esta información pública por el mismo.)&#x20;
 
-Primera sanción : Ban permanente de ip
+Primera sanción : baneo permanente
 
 ***
 
 ## Hacerse pasar por Staff
 
-Primera sanción: 10d de ban&#x20;
-
-Segunda sanción: 25d de ban&#x20;
-
-Tercera sanción: Ban permanente
+Primera sanción: ban permanente&#x20;
 
 ***
 
 ## Falta de Respeto al Servidor
 
-Primera sanción: Ban permanente
+Primera sanción: muteo permanente
+
+## Falta de Respeto al Servidor [DISCORD]
+
+Primero sanción: baneo permanente
 
 ***
 
 ## Hostigamiento
 
-Primera sanción: Warn
+Primera sanción: 5 minutos de mute
 
-Segunda sanción: 30m de Ban
+Segunda sanción: 30 minutos de baneo
 
-Tercera sanción: 3 días de Ban
+Tercera sanción: 3 días de baneo
 
 ***
 
-## Estafas
+## Estafas [DINERO REAL]
 
-Primera sanción: 2d Ban
+Cabe aclarar que los moderadores / equipo staff no debe intervenir en ninguna estafa que no esté relacionada con la pérdida de dinero real (por rangos del servidor) en el caso en el que se pierda dinero por una transacción completamente independiente del servidor el servidor no se hace responsable.
 
-Segunda sanción: 7d  Ban
+Primera sanción: 15 días de baneo
 
-Tercera sanción: 14d Ban\
-Cuarta sanción: Duplicar la anterior.&#x20;
+Segunda sanción: 45 días de baneo
+
+Tercera sanción: baneo permanente
 
 ***
 
 ## NOMBRE INAPROPIADO
 
-Primera sanción: Warn (de que se salga y se meta con otra cuenta)
+Primera sanción: warn (de que se salga y se meta con otra cuenta)
 
-Segunda sanción: Ban permanente de esa cuenta. (se le permite entrar con alt)
+Segunda sanción: baneo permanente a la cuenta en específico (se le permite entrar con multicuenta)
 
 ***
 
 ## Items ilegales
 
-Primera sanción: Ban de ip permanente
+Primera sanción: baneo permanente
 
 ***
 
 ## Bug Abuse
 
-Primera sanción: 1d ban&#x20;
+Primera sanción: warn
 
-Segunda sanción: 7d ban\
-Tercera sanción: 14d ban
+Segunda sanción: 1 día de baneo
 
-Cuarta sanción: Duplicar la anterior.
+Tercera sanción: 7 días de baneo
+
+Cuarta sanción: duplicar la anterior
 
 ***
 
 ## FarmKill
 
-Primera sanción: Warn
+Primera sanción: warn
 
-Segunda sanción: 3d Ban &#x20;
+Segunda sanción: 3 días de baneo
 
-Tercera sanción: 7d ban
+Tercera sanción: 7 días de baneo
 
 ***
 
 ## Pasar IP de otro servidor
 
-Primera sanción: IP Ban Permanente
+Primera sanción: muteo permanente
+
+En el hipotético caso de que el usuario intente mandar otra vez una ip de un servidor ajeno por cualquier otro medio se le sanciona en MineCraft con baneo permanente
 
 ***
 
 ## Tradear por dinero real
 
-Primera sanción: IP Ban permanente
+Es importante que en estas situaciones se le comunique al usuario afectado que el servidor no se hace responsable de ninguna de estas situaciones ya que es bajo su propia responsabilidad
+
+Primera sanción: baneo permanente
 
 ***
 
 ## Falta de Respeto al Staff
 
-Primera sanción: 2h mute
+Primera sanción: 6 horas de mute
 
-Segunda sanción: 6h mute
+Segunda sanción: 1 día de muteo
 
-Tercera sanción: 3d ban\
-Cuarta sanción: 7d ban
+Tercera sanción: 3 días de baneo
 
-Quinta sanción: Duplicar la anterior.
+Cuarta sanción: 7 días de baneo
+
+Quinta sanción: duplicar la anterior
 
 ***
 
 ## Spam
 
-Primera sanción: Warning&#x20;
+Primera sanción: warn
 
-Segunda sanción: 15m mute&#x20;
+Segunda sanción: 20 minutos de muteo
 
-Tercera sanción: 30m mute&#x20;
+Tercera sanción: 45 minutos de muteo
 
-Cuarta sanción: Duplicar la anterior.&#x20;
+Cuarta sanción: duplicar la anterior sanción
+
+En el caso de que un usuario colecte demasiadas sanciones por spam podríamos incrementar su sanción a un baneo acumulativo, es decir, se empezaría con 1 día y mediante cometa la infracción otra vez se le sumaría un día. Por ejemplo, a la segunda sanción serían 2 días de baneo, a la tercera 3 días...
 
 ***
 
 ## Flood
 
-Primera sanción: Warning&#x20;
+Primera sanción: warn
 
-Segunda sanción: 5 Minute Temp Mute&#x20;
+Segunda sanción: 5 minutos de muteo
 
-Tercera sanción: 15 Minute Temp Mute
+Tercera sanción: 20 minutos de muteo
 
-Cuarta sanción: Duplicar la anterior.&#x20;
+Cuarta sanción: duplicar la anterior
 
 ***
 
 ## Toxicidad Excesiva
 
-Primera sanción: 1h Temp Mute&#x20;
+Primera sanción: 1 hora de muteo
 
-Segunda sanción: 3h Temp Mute&#x20;
+Segunda sanción: 3 horas de muteo
 
-Tercera sanción: +3h Temp Mute
+Tercera sanción: 6 horas de muteo
 
-Cuarta sanción: Duplicar la anterior.&#x20;
+Cuarta sanción: duplicar la anterior.&#x20;
+
+En el caso de que un usuario colecte demasiadas sanciones por spam podríamos incrementar su sanción a un muteo permanente
 
 ***
 
 ## Toxicidad
 
-Primera sanción: Warn
+Primera sanción: warn
 
-Segunda sanción: 15 Mute&#x20;
+Segunda sanción: 15 minutos de muteo
 
-Tercera sanción: 30 Mute
+Tercera sanción: 30 minutos de muteo
 
-Cuarta sanción : Duplicar la anterior.
+Cuarta sanción : duplicar la anterior.
+
+En el caso de que un usuario colecte demasiadas sanciones por spam podríamos incrementar su sanción a un muteo permanente
 
 ***
 
 ## Team sin ser clan
 
-Primera sanción: Warn.
+Primera sanción: warn
 
-Segunda sanción: 12h Ban
+Segunda sanción: 6 horas de baneo
 
-Tercera sanción: 3d Ban
+Tercera sanción: 12 horas de baneo
 
-Cuarta sanción : Duplicar la anterior.
+Cuarta sanción : duplicar la anterior.
+
+En el caso de que un usuario colecte demasiadas sanciones por spam podríamos incrementar su sanción a un baneo permanente, ya que se puede probar que el usuario por más avisos y sanciones que se le han otorgado no ha sido capaz de rectificar su comportamiento.
 
 ***
 
 ## Grieffing de bases
 
 Grieffing Outside:\
-\- Primera sanción: 1d de ban\
-\- Segunda sanción: 3d de ban\
-\- Tercera sanción: 7d de ban\
+\- Primera sanción: 1 día de baneo\
+\- Segunda sanción: 3 días de baneo\
+\- Tercera sanción: 7 días de baneo\
 \
 Grieffing Inside\
-\- Primera sanción: 3d de ban\
-\- Segunda sanción: 7d de ban\
-\- Tercera sanción: 15d de ban
+\- Primera sanción: 3 días de baneo\
+\- Segunda sanción: 7 días de baneo\
+\- Tercera sanción: 15 días de baneo
 
 ***
 
 ## Enlace inapropiado
 
-Primera sanción: 4h Mute 1/4&#x20;
+Primera sanción: 2 horas de muteo
 
-Segunda sanción: 8h Mute 2/4&#x20;
+Segunda sanción: 4 horas de muteo
 
-Tercera sanción: 1d Ban 3/4&#x20;
+Tercera sanción: 12 horas de muteo
 
-Cuarta sanción : 2d Ban 4/4&#x20;
+Cuarta sanción : 1 día de baneo
 
-Quinta sanción: Duplicar la anterior.
+Quinta sanción: duplicar la anterior.
 
 ***
 
 ## Racismo
 
-Primera sanción: 12h Mute&#x20;
+Primera sanción: 12 horas de muteo
 
-Segunda sanción: 1d Ban&#x20;
+Segunda sanción: 1 día de muteo
 
-Tercera sanción: 3d Ban&#x20;
+Tercera sanción: 1 día de baneo
 
-Cuarta sanción : Duplicar la anterior.
+Cuarta sanción : duplicar la anterior.
+
+En el caso de que un usuario colecte demasiadas sanciones por racismo podríamos incrementar su sanción a un baneo permanente, ya que se puede probar que el usuario por más avisos y sanciones que se le han otorgado no ha sido capaz de rectificar su comportamiento.
 
 ***
 
 ## Anti AFK
 
-Primera sanción: Warn & Kick
+Primera sanción: warn + kickeo del servidor
 
-Segunda sanción: 1d de ban&#x20;
+Segunda sanción: 12 horas de baneo
 
-Tercera sanción: 4d de ban
+Tercera sanción: 36 horas de baneo
 
-Cuarta sanción : Duplicar la anterior.
+Cuarta sanción : duplicar la anterior.
 
 ***
 
 ## TPA KILL
 
-Primera sanción: 12h Mute&#x20;
+Primera sanción: 12 horas de muteo
 
-Segunda sanción: 1d Ban&#x20;
+Segunda sanción: 2 días de muteo
 
-Tercera sanción: 3d Ban&#x20;
+Tercera sanción: 2 días de baneo
 
-Cuarta sanción : Duplicar la anterior.
+Cuarta sanción : duplicar la anterior.
+
+En el caso de que un usuario colecte demasiadas sanciones por tpakill podríamos incrementar su sanción a un baneo permanente, ya que se puede probar que el usuario por más avisos y sanciones que se le han otorgado no ha sido capaz de rectificar su comportamiento. [En este tipo de situaciones está bien que los moderadores pongan su punto de vista ante un head antes de ejercer una sanción]
 
 ***
 
 ## Mal uso del /Helpop y /Reportes
 
-Primera sanción: Warn&#x20;
+Primera sanción: warn
 
-Segunda sanción: 12h mute
+Segunda sanción: 2 horas de muteo
 
-Tercera sanción: 1d Ban&#x20;
+Tercera sanción: 6 horas de muteo
 
-Cuarta sanción: Duplicar la anterior.
+Cuarta sanción: 1 día de muteo
+
+Quinta sanción: duplicar la anterior
 
 ***
