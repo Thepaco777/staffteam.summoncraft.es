@@ -61,7 +61,7 @@ Primera sanción : baneo permanente
 
 ***
 
-## Hacerse pasar por Staff
+## Hacerse Pasar por Staff
 
 Primera sanción: ban permanente&#x20;
 
@@ -99,7 +99,7 @@ Tercera sanción: baneo permanente
 
 ***
 
-## NOMBRE INAPROPIADO
+## Nombre Inapropiado
 
 Primera sanción: warn (de que se salga y se meta con otra cuenta)
 
@@ -107,7 +107,7 @@ Segunda sanción: baneo permanente a la cuenta en específico (se le permite ent
 
 ***
 
-## Items ilegales
+## Items Ilegales
 
 Primera sanción: baneo permanente
 
@@ -135,7 +135,7 @@ Tercera sanción: 7 días de baneo
 
 ***
 
-## Pasar IP de otro servidor
+## Pasar IP de Otro Servidor
 
 Primera sanción: muteo permanente
 
@@ -211,7 +211,7 @@ En el caso de que un usuario colecte demasiadas sanciones por spam podríamos in
 
 ***
 
-## Team sin ser clan
+## Team Sin Ser Clan
 
 Primera sanción: warn
 
@@ -225,7 +225,7 @@ En el caso de que un usuario colecte demasiadas sanciones por spam podríamos in
 
 ***
 
-## Grieffing de bases
+## Grieffing de Bases
 
 Grieffing Outside:\
 \- Primera sanción: 1 día de baneo\
@@ -239,7 +239,7 @@ Grieffing Inside\
 
 ***
 
-## Enlace inapropiado
+## Enlace Inapropiado
 
 Primera sanción: 2 horas de muteo
 
@@ -279,7 +279,7 @@ Cuarta sanción : duplicar la anterior.
 
 ***
 
-## TPA KILL
+## Tpa Kill
 
 Primera sanción: 12 horas de muteo
 
@@ -293,7 +293,7 @@ En el caso de que un usuario colecte demasiadas sanciones por tpakill podríamos
 
 ***
 
-## Mal uso del /Helpop y /Reportes
+## Mal Uso del /helpop y /reportes
 
 Primera sanción: warn
 
