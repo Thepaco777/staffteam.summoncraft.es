@@ -293,7 +293,7 @@ En el caso de que un usuario colecte demasiadas sanciones por tpakill podríamos
 
 ***
 
-## Mal Uso del /helpop y /reportes Noooooo
+## Mal Uso del /helpop y /reportes
 
 Primera sanción: warn
 
